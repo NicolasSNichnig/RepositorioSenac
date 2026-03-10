@@ -5,7 +5,7 @@ Repositório da minha jornada no curso do "Jovem Programador" no Senac
 
 As pastas do repositório serão organizadas em:
 
-- Pasta principal
+-- Pasta principal
   -- Semestre
     --- Dia
       ---- Material
