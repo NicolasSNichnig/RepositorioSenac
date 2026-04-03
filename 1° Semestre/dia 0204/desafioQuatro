@@ -1,0 +1,14 @@
+lista = []
+
+while True:
+    number = int(input("Coloque um número na lista: "))
+    if(number == 0):
+        break
+    else:
+        lista.append(number)
+
+def maiorLista(listaNormal):
+    listaOrdenada = sorted(listaNormal, reverse=True)
+    return listaOrdenada[0]
+
+print(f"O maior número da lista é: {maiorLista(lista)}")
